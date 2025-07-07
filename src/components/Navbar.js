@@ -126,7 +126,7 @@ const Navbar = () => {
             transform: ${isMobileMenuOpen ? 'translate(-100vw,0px)' : 'translate(0px,0px)'};
             top: 0;
             right: -100%;
-            background: white;
+            background: ${isDark ? '#262626' : 'white'};
             width: auto;
             height:120vh;
             padding: 40px 20px;
