@@ -34,7 +34,7 @@ const DEFAULT_ITEMS = [
   {
     id: 4,
     title: "Bikaro Harum Indonesia Company Profile Website",
-    description: "The website was created as a company profile for the Bikaro Harum Indonesia company, a company engaged in the field of cleaning products, such as laundry soap, dishes and others. This website was created using next js, typescript, and gsap",
+    description: "The website was created as a company profile for the Bikaro Harum Indonesia company, a company engaged in the field of cleaning products, such as laundry soap, dishes and others. This website uses many scroll trigger features as per client request such as, parallax, animate on scroll, number counter, and others. This website was created using next js, typescript, and gsap",
     tectstack: ["nextjs","typescript","tailwind","gsap"],
     preview: "/assets/project/bikaro.mp4",
     previewType: "video",
